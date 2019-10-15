@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react_educational_project/static/css/main.b100e6da.chunk.css",
-    "main.js": "/react_educational_project/static/js/main.82d2871a.chunk.js",
-    "main.js.map": "/react_educational_project/static/js/main.82d2871a.chunk.js.map",
+    "main.js": "/react_educational_project/static/js/main.0e68dd4b.chunk.js",
+    "main.js.map": "/react_educational_project/static/js/main.0e68dd4b.chunk.js.map",
     "runtime-main.js": "/react_educational_project/static/js/runtime-main.d8271c48.js",
     "runtime-main.js.map": "/react_educational_project/static/js/runtime-main.d8271c48.js.map",
     "static/css/2.c936cbeb.chunk.css": "/react_educational_project/static/css/2.c936cbeb.chunk.css",
     "static/js/2.628f008a.chunk.js": "/react_educational_project/static/js/2.628f008a.chunk.js",
     "static/js/2.628f008a.chunk.js.map": "/react_educational_project/static/js/2.628f008a.chunk.js.map",
     "index.html": "/react_educational_project/index.html",
-    "precache-manifest.14930cef6aec5288e05c655dea45ed18.js": "/react_educational_project/precache-manifest.14930cef6aec5288e05c655dea45ed18.js",
+    "precache-manifest.ca5933e895e3e7ffc02e9af8c97d5a82.js": "/react_educational_project/precache-manifest.ca5933e895e3e7ffc02e9af8c97d5a82.js",
     "service-worker.js": "/react_educational_project/service-worker.js",
     "static/css/2.c936cbeb.chunk.css.map": "/react_educational_project/static/css/2.c936cbeb.chunk.css.map",
     "static/css/main.b100e6da.chunk.css.map": "/react_educational_project/static/css/main.b100e6da.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.c936cbeb.chunk.css",
     "static/js/2.628f008a.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.82d2871a.chunk.js"
+    "static/js/main.0e68dd4b.chunk.js"
   ]
 }
