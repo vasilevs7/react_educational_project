@@ -2,7 +2,7 @@
   "name": "weather",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vasilevs7.github.io/react-educational-project",
+  "homepage": "https://vasilevs7.github.io/react_educational_project",
   "dependencies": {
     "bootstrap": "^3.4.1",
     "bootswatch": "^3.4.1",
